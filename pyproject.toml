@@ -1,0 +1,4 @@
+[project]
+name = "ai-constitutional-guard"
+version = "0.1.0"
+description = "Self-judges AI responses against a set of constitutional ethical guidelines and rights."
